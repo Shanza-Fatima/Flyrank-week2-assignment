@@ -1,0 +1,6 @@
+venv/
+__pycache__
+*.pyc
+main.py
+.vscode
+patient.json
